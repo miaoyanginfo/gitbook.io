@@ -11,3 +11,13 @@
 * [🔃 Docker探索](docker-tan-suo/README.md)
   * [🕹 有趣的容器](docker-tan-suo/you-qu-de-rong-qi.md)
 * [🖥 有趣的网站](you-qu-de-wang-zhan.md)
+
+## 🎬 最新影视分享 <a href="#movie" id="movie"></a>
+
+* [Page 1](movie/page-1.md)
+* [Page 2](movie/page-2.md)
+
+## 🎶 经典音乐收藏 <a href="#music" id="music"></a>
+
+* [Page 3](music/page-3.md)
+* [Page 4](music/page-4.md)
