@@ -1,9 +1,14 @@
 # Table of contents
 
 * [🛰 欢迎光临🤷‍♂️🤷‍♀️](README.md)
-* [✈ 机场推荐🔥](ji-chang-tui-jian/README.md)
-  * [🧨 免费体验50G](1.md)
-  * [💯 免费节点更新](mfjd.md)
+
+## 🔥 机场和节点 <a href="#airport" id="airport"></a>
+
+* [🌠 免费节点更新](airport/mian-fei-jie-dian-geng-xin.md)
+* [🆓 免费体验50G](airport/mian-fei-ti-yan-50g.md)
+
+***
+
 * [🏡 HomeAssistant相关](2.md)
   * [🏗 程序搭建](999.md)
   * [🔗 组件接入](2/zu-jian-jie-ru.md)
