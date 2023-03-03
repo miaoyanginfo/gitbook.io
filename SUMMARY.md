@@ -25,3 +25,7 @@
 ## 🏵 有趣的软件 <a href="#software" id="software"></a>
 
 * [🏵 有趣的软件](software/you-qu-de-ruan-jian.md)
+
+***
+
+* [📺 我的Plex媒体库分享](wo-de-plex-mei-ti-ku-fen-xiang.md)
