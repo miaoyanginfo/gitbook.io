@@ -1,3 +1,8 @@
+---
+cover: https://img3.jiemian.com/jiemian/original/20180712/153138158477589700.jpg
+coverY: 0
+---
+
 # 🆓 免费体验50G
 
 推荐一个机场，速度不错，使用优惠码jisuyun可以体验一个月20G的免费套餐。 其他套餐的价格也不贵，实际体验下来速度不错。
