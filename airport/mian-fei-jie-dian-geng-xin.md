@@ -7,6 +7,8 @@ coverY: 0
 
 免费节点列表 更新时间：2023/3/3
 
+客户端下载：[https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai](https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai)
+
 ```
 ssr://NDUuMTMwLjE0Ni4xNTg6MzU4ODU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dhemg1Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UlEmZ3JvdXA9VEc1amJpNXZjbWM
 ssr://NDUuOC4xNTguMjQ1OjM1ODg1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYXpoNS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJnJmdyb3VwPVRHNWpiaTV2Y21j
