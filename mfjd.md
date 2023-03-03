@@ -1,5 +1,7 @@
-免费节点列表
-更新时间：2023/3/3
+# 💯 免费节点更新
+
+免费节点列表 更新时间：2023/3/3
+
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui3neemu+S4i+asoemHjee9ruWJqeS9me+8mjIyIOWkqSIsDQogICJhZGQiOiAic2cxLm1pY3Jvc29mdGpzLnRvcCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjVmZTM5MjMyLTAzZGMtNDZjYS05YTRlLTU2YjZjMTQwMDkzMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 ```

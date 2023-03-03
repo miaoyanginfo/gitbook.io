@@ -22,6 +22,6 @@
 * [Page 3](music/page-3.md)
 * [Page 4](music/page-4.md)
 
-## Group 1
+## 🏵 有趣的软件 <a href="#software" id="software"></a>
 
-* [🏵 有趣的软件](group-1/you-qu-de-ruan-jian.md)
+* [🏵 有趣的软件](software/you-qu-de-ruan-jian.md)
