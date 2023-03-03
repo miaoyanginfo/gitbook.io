@@ -35,6 +35,5 @@
 ***
 
 * [📺 我的Plex媒体库分享](wo-de-plex-mei-ti-ku-fen-xiang.md)
-* [🗞 有趣的新闻](you-qu-de-xin-wen/README.md)
-  * [🖼 香港启德机场旧照](you-qu-de-xin-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
-* [🖼 香港启德机场旧照](xiang-gang-qi-de-ji-chang-jiu-zhao.md)
+* [🗞 有趣的旧闻](you-qu-de-jiu-wen/README.md)
+  * [🖼 香港启德机场旧照](you-qu-de-jiu-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
