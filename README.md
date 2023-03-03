@@ -8,5 +8,7 @@ description: 简介
 
 大家有好的资源也可以发给我，我会发布在这里让更多的朋友看到。
 
-资源投稿可以发邮件到miaoyanginfo@gmail.com或加入电报群分享。
+资源投稿可以发邮件到miaoyanginfo@gmail.com或加我电报好友。
+
+<figure><img src=".gitbook/assets/telg.jpg" alt=""><figcaption><p>电报二维码</p></figcaption></figure>
 
