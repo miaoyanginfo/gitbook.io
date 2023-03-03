@@ -1,7 +1,7 @@
 ---
 description: 原文链接https://www.jiemian.com/article/2303867.html
 coverY: 0
-layout: landing
+layout: editorial
 ---
 
 # 🖼 香港启德机场旧照
