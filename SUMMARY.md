@@ -6,6 +6,7 @@
 
 * [🌠 免费节点更新](airport/mian-fei-jie-dian-geng-xin.md)
 * [🆓 免费体验50G](airport/mian-fei-ti-yan-50g.md)
+* [📱 客户端下载](airport/ke-hu-duan-xia-zai.md)
 
 ***
 
