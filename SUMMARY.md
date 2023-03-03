@@ -10,13 +10,13 @@
 
 ***
 
-* [🏡 HomeAssistant相关](2.md)
-  * [🏗 程序搭建](999.md)
-  * [🔗 组件接入](2/zu-jian-jie-ru.md)
-  * [🚂 自动化](2/zi-dong-hua.md)
-* [🔃 Docker探索](docker-tan-suo/README.md)
-  * [🕹 有趣的容器](docker-tan-suo/you-qu-de-rong-qi.md)
+* [🗞 有趣的旧闻](you-qu-de-jiu-wen/README.md)
+  * [🖼 香港启德机场旧照](you-qu-de-jiu-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
 * [🖥 有趣的网站](you-qu-de-wang-zhan.md)
+
+## 🏵 有趣的软件 <a href="#software" id="software"></a>
+
+* [🏵 有趣的软件](software/you-qu-de-ruan-jian.md)
 
 ## 🎬 最新影视分享 <a href="#movie" id="movie"></a>
 
@@ -28,12 +28,12 @@
 * [Page 3](music/page-3.md)
 * [Page 4](music/page-4.md)
 
-## 🏵 有趣的软件 <a href="#software" id="software"></a>
-
-* [🏵 有趣的软件](software/you-qu-de-ruan-jian.md)
-
 ***
 
 * [📺 我的Plex媒体库分享](wo-de-plex-mei-ti-ku-fen-xiang.md)
-* [🗞 有趣的旧闻](you-qu-de-jiu-wen/README.md)
-  * [🖼 香港启德机场旧照](you-qu-de-jiu-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
+* [🏡 HomeAssistant相关](2.md)
+  * [🏗 程序搭建](999.md)
+  * [🔗 组件接入](2/zu-jian-jie-ru.md)
+  * [🚂 自动化](2/zi-dong-hua.md)
+* [🔃 Docker探索](docker-tan-suo/README.md)
+  * [🕹 有趣的容器](docker-tan-suo/you-qu-de-rong-qi.md)
