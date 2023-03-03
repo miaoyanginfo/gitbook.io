@@ -1,3 +1,7 @@
+---
+description: 各平台客户端下载链接
+---
+
 # 📱 客户端下载
 
 Windows([https://github.com/shadowsocksrr/shadowsocksr-csharp/releases](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases))
