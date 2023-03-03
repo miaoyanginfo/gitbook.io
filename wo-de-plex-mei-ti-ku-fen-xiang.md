@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/image (2).png
+coverY: 0
+---
+
 # 📺 我的Plex媒体库分享
 
 我在自己家里的NAS上搭建了Plex 服务，收藏了不少自己喜欢的影片和音乐，基本上是7\*24小时开机。大家可以搜索我的用户名**miaoyanginfo**来请求分享。
