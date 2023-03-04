@@ -1,5 +1,5 @@
 ---
-description: 更适用于平板的HomeAssistant控制界面
+description: 更s适合平板操作的HomeAssistant控制界面
 ---
 
 # 🏔 Appdaemon界面部署
