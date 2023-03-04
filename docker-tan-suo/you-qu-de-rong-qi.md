@@ -1,6 +1,6 @@
 # 🕹 免费薅狗东豆豆
 
-![](<../.gitbook/assets/image (4).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 利用docker搭建青龙面板，轻轻松松薅狗东的免费豆豆真的好香。。
 
