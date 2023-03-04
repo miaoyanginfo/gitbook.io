@@ -37,3 +37,4 @@
   * [🚂 自动化](2/zi-dong-hua.md)
 * [🔃 Docker探索](docker-tan-suo/README.md)
   * [🕹 免费薅狗东豆豆](docker-tan-suo/you-qu-de-rong-qi.md)
+  * [🏔 Appdaemon界面部署](docker-tan-suo/appdaemon-jie-mian-bu-shu.md)
