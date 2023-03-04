@@ -36,4 +36,4 @@
   * [🔗 组件接入](2/zu-jian-jie-ru.md)
   * [🚂 自动化](2/zi-dong-hua.md)
 * [🔃 Docker探索](docker-tan-suo/README.md)
-  * [🕹 免费薅狗东豆豆](docker-tan-suo/mian-fei-hao-gou-dong-dou-dou.md)
+  * [🕹 免费薅狗东豆豆](docker-tan-suo/you-qu-de-rong-qi.md)
