@@ -1,5 +1,5 @@
 ---
-description: 记得将网址加入收藏哦 https://miaoyang.gitbook.io
+description: 记得将网址加入收藏哦 https://miaoyang.gitbook.io/index
 cover: >-
   https://images.unsplash.com/photo-1675383281254-b0624461787d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzc4MzMyNTY&ixlib=rb-4.0.3&q=80
 coverY: 0
