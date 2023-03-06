@@ -12,7 +12,7 @@
 
 * [🗞 有趣的旧闻](you-qu-de-jiu-wen/README.md)
   * [🖼 香港启德机场旧照](you-qu-de-jiu-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
-* [🖥 有用的网站](you-yong-de-wang-zhan.md)
+* [🖥 有用的网站](you-qu-de-wang-zhan.md)
 
 ## 🏵 有趣的软件 <a href="#software" id="software"></a>
 
