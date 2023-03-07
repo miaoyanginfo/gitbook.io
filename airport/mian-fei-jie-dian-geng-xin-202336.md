@@ -5,7 +5,7 @@ coverY: 0
 
 # 🌠 免费节点更新(2023/3/7)
 
-免费节点列表 更新时间：2023/3/6
+免费节点列表 更新时间：2023/3/7
 
 客户端下载：[https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai](https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai)
 
