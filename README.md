@@ -1,7 +1,7 @@
 ---
 description: 如果喜欢记得将网址加入收藏并分享给好友哦！
-cover: .gitbook/assets/infinite-top@2x_02.3f1006701121044b564b547f7d123248.png
-coverY: 175
+cover: .gitbook/assets/0f9cc726cffc1e17d9e3be795d90f603728de9cb.jpg
+coverY: -95
 ---
 
 # 🏠 <渊澄の分享>🤷‍♂️🤷‍♀️
