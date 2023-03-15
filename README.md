@@ -8,16 +8,9 @@ coverY: 175
 
 欢迎来到《渊澄の分享》，在这里我会分享我在互联网上找到的一些有趣的网站、影音资源、免费节点还有一些旧闻，也会写一些教程之类的。如果你觉得有用，欢迎收藏分享。也欢迎到我的Blog作客。
 
-{% embed url="https://miaoyang.win" %}
-部署于Cloudflare
-{% endembed %}
-
-{% embed url="https://miaoyang.info" %}
-部署于Vercel
-{% endembed %}
-
-{% embed url="https://miaoyanginfo.github.io" %}
-部署于Github Page
-{% endembed %}
+```
+https://miaoyang.info
+https://miaoyang.win
+```
 
 如果你有好的资源要在这里分享给大家，可以发邮件到**miaoyanginfo@gmail.com**或在Github上提交变更。
