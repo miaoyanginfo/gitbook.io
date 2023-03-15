@@ -24,11 +24,6 @@
 * [🍟 显微镜下的大明\[全14集-4k\]bt下载](movie/xian-wei-jing-xia-de-da-ming-quan-14-ji-4kbt-xia-zai.md)
 * [🎆 狂飙\[全39集-4k\]bt下载](movie/kuang-biao-quan-39-ji-4kbt-xia-zai.md)
 
-## 🎶 经典音乐收藏 <a href="#music" id="music"></a>
-
-* [Page 3](music/page-3.md)
-* [Page 4](music/page-4.md)
-
 ***
 
 * [📺 我的Plex媒体库分享](wo-de-plex-mei-ti-ku-fen-xiang.md)
@@ -40,3 +35,6 @@
   * [🕹 免费薅狗东豆豆](docker-tan-suo/you-qu-de-rong-qi.md)
   * [🏔 Appdaemon界面部署](docker-tan-suo/appdaemon-jie-mian-bu-shu.md)
   * [🚍 搭建本地MQTT服务器](docker-tan-suo/da-jian-ben-di-mqtt-fu-wu-qi.md)
+* [我的Blog（Github Page）](https://miaoyanginfo.github.io)
+* [我的Blog（Cloudflare）](https://miaoyang.win)
+* [我的Blog（Vercel）](https://miaoyang.info)
