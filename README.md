@@ -1,8 +1,7 @@
 ---
 description: 如果喜欢记得将网址加入收藏并分享给好友哦！
-cover: >-
-  https://images.unsplash.com/photo-1675383281254-b0624461787d?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzc4MzMyNTY&ixlib=rb-4.0.3&q=80
-coverY: 0
+cover: .gitbook/assets/infinite-top@2x_02.3f1006701121044b564b547f7d123248.png
+coverY: 175
 ---
 
 # 🏠 <渊澄の分享>🤷‍♂️🤷‍♀️
