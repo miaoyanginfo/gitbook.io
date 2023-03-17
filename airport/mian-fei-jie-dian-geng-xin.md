@@ -1,12 +1,12 @@
 ---
-description: 最近更新时间：2023/3/16
+description: 最近更新时间：2023/3/17
 cover: https://img3.jiemian.com/jiemian/original/20180712/153138153587799600.jpg
 coverY: 0
 ---
 
 # 🌠 免费节点更新🎉
 
-免费节点列表 更新时间：2023/3/16
+免费节点列表 更新时间：2023/3/17
 
 客户端下载：[https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai](https://miaoyang.gitbook.io/index.html/airport/ke-hu-duan-xia-zai)
 
