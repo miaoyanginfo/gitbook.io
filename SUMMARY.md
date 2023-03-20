@@ -14,10 +14,6 @@
   * [🖼 香港启德机场旧照](you-qu-de-jiu-wen/xiang-gang-qi-de-ji-chang-jiu-zhao.md)
 * [🖥 有用的网站](you-qu-de-wang-zhan.md)
 
-## 🏵 有趣的软件 <a href="#software" id="software"></a>
-
-* [🏵 有趣的软件](software/you-qu-de-ruan-jian.md)
-
 ## 🎬 最新影视分享 <a href="#movie" id="movie"></a>
 
 * [🔫 无间道\[三部曲1080p\]bt下载](movie/wu-jian-dao-san-bu-qu-1080pbt-xia-zai.md)
