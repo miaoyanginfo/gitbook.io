@@ -5,7 +5,7 @@
 ## 🔥 机场和节点 <a href="#airport" id="airport"></a>
 
 * [🌠 免费节点更新🎉](airport/mian-fei-jie-dian-geng-xin.md)
-* [🛫 机场推荐](airport/ji-chang-tui-jian.md)
+* [🛫 机场推荐](airport/mian-fei-ti-yan-50g.md)
 * [📱 客户端下载](airport/ke-hu-duan-xia-zai.md)
 
 ***
