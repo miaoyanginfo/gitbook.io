@@ -13,7 +13,7 @@ coverY: 0
 
 #### 另外一个机场使用优惠码【jisuyun.me】购买月付套餐，5折，活动截止到4.15号。
 
-[注册地址](https://www.jisuyun6.com/#/register?code=ZreZrCbq)
+[注册地址](https://www.xn--9kqu12djx2a.me/#/register?code=sqVMFinw)
 
 推荐一个老牌虚拟主机提供商，首次付款输入优惠码yuancheng可以享受7.5折优惠。我已经用了近十年的时间了，售后技术支持很到位，稳定性也不错，国内和海外都有主机，产品包括域名注册、虚拟空间、VPS服务器等等。
 
