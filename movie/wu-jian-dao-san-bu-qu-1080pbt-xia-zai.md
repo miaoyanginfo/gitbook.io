@@ -16,7 +16,7 @@ description: 难以逾越的港片巅峰之作，百看不厌，分享推荐！
 
 [下载链接](https://btbtt18.com/attach-dialog-fid-951-aid-5886119.htm)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 刘建明（刘德华）在陈永仁（梁朝伟）被杀10个月后接受警队内部调查，被架空职权，加上家庭的变故，他的精神状态每况愈下，但他坚信局面很快就会扭转。年轻警司杨锦荣（黎明）在同事看来是怪人一个，他正凭着过人的业绩迈向警队最高层。为了搞清楚杨锦荣的真实身份，刘建明开始对其调查。 刘建明渐渐发现韩琛旧日的生意拍档沈澄（陈道明）与杨锦荣有着千丝万缕的关系，为了置杨锦荣于死地，也为了不让自己的身份曝光，渴望做个好人已久的刘建明开始千辛万苦地找寻一个又一个证据，可是他总在最接近真相时功亏一篑。
 
