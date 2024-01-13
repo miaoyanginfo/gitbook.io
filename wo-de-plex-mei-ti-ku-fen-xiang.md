@@ -15,6 +15,6 @@ coverY: 0
 
 ![](<.gitbook/assets/image (5) (1).png>)
 
-![](<.gitbook/assets/image (1) (1).png>)
+![](<.gitbook/assets/image (1) (1) (1).png>)
 
 上面是我媒体库的部分资源，如果大家有自己收藏的资源，也欢迎和我分享。
