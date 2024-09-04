@@ -25,7 +25,6 @@
 
 ***
 
-* [📺 我的Plex媒体库分享](wo-de-plex-mei-ti-ku-fen-xiang.md)
 * [🏡 HomeAssistant相关](2.md)
   * [🏗️ 程序搭建](999.md)
   * [🔗 组件接入](2/zu-jian-jie-ru.md)
